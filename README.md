@@ -144,5 +144,5 @@
 ![Screenshot (27)](https://user-images.githubusercontent.com/80576654/193412089-b66045b1-a3e3-437e-840e-b34749fd1687.png)
 
 # Logout
-* After click on logout button then it will redirect into login page and in localstroage user data clear
+* After click on logout button then it will redirect into login page and in System localstroage user data will clear
 
