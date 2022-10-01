@@ -28,6 +28,7 @@
 ###
 
 # User:-
+* Before using application,
 * First user should register on this application 
 * After user signup completed 
 * Then He can acces this application
