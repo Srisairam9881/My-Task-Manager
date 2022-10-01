@@ -72,8 +72,11 @@
 ![Screenshot (8)](https://user-images.githubusercontent.com/80576654/193410815-62fe295f-0235-4601-a6e6-c4b52aef2fec.png)
 ###
 ## ALL Task List:-
+* User can see completed tasks and incompleted task
+
 ![Screenshot (9)](https://user-images.githubusercontent.com/80576654/193410971-c7b117bc-43e4-4b77-a28f-ee50f3978268.png)
 ![Screenshot (21)](https://user-images.githubusercontent.com/80576654/193411560-ad341f25-a6f7-40b0-9a5d-6b51e2fee9d0.png)
+![Screenshot (25)](https://user-images.githubusercontent.com/80576654/193412020-c7ed490a-4ada-47bc-925b-850626e1f6cd.png)
 
 * user can Add List,Display All List,Update List and Delete List
 * <b>1.Add List</b>
@@ -124,4 +127,16 @@
   
   <b>4.Delete Task.First select the folder you want to Delete Task to and then click on the Delete Task button on the right side</b>
   
+###
+## Completed Tasks:-
+* User can only see Completed tasks
+![Screenshot (26)](https://user-images.githubusercontent.com/80576654/193412029-007e93b8-c1d4-4cdf-89a7-b15e6edf656e.png)
+
+## Incomplete Tasks:-
+* User can only see incomplete tasks
+* In this operation user can do, In All tasks list what have you  done opertion, user can do in opertion
+![Screenshot (27)](https://user-images.githubusercontent.com/80576654/193412089-b66045b1-a3e3-437e-840e-b34749fd1687.png)
+
+# Logout
+* After click on logout button then it will redirect into login page and in localstroage user data clear
 
