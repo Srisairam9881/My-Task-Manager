@@ -75,14 +75,24 @@
 ![Screenshot (9)](https://user-images.githubusercontent.com/80576654/193410971-c7b117bc-43e4-4b77-a28f-ee50f3978268.png)
 
 * user can Add List,Display All List,Update List and Delete List
-  <b>1.Add List</b>
+* <b>1.Add List</b>
+ 
   ![Screenshot (10)](https://user-images.githubusercontent.com/80576654/193411029-7177e323-385e-4dea-bc4f-555b6138225a.png)
-
+  <b>After List added it will show pop up</b>
+  
   <b>2.Display List</b>
+  
   ![Screenshot (11)](https://user-images.githubusercontent.com/80576654/193411044-48504d78-bd6d-4241-9597-80f9081f8848.png)
 
   <b>3.Update List</b>
+  
+  ![Screenshot (28)](https://user-images.githubusercontent.com/80576654/193411174-0d751634-731d-427e-bf7b-6f2aff94b50a.png)
+  
+  <b>After List has updated it will shows pop you can see below image</b>  
+  ![Screenshot (22)](https://user-images.githubusercontent.com/80576654/193411240-16f1a26a-3d63-43d2-a005-e3f6b0bc6ec1.png)
+
   <b>4.Delete List</b>
+  
 * In a List user can Add Task ,Update Task ,Display All Tasks,Update Tasks and Delete Tasks
   
 
