@@ -2,10 +2,10 @@
 ###
 * It is <b>MEAN</b> Stack Application:-
 *  <b>MEAN</b>
-*   M --> MongoDB,
-    E --> Express,
-    A --> Angular,
-    N --> NodeJs
+   M --> MongoDB,
+   E --> Express,
+   A --> Angular,
+   N --> NodeJs
 ###
 # Requirements:-
 * NodeJs as Backend
