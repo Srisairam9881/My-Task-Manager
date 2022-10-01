@@ -48,7 +48,7 @@
 ## Vadlidation On sign up page:-
 
 * If any field are not filled means it will show alerts like below image
-* 
+ 
 ![Screenshot (3)](https://user-images.githubusercontent.com/80576654/193410514-57340a0b-ac1a-4eeb-9697-02901f7149a0.png)
 
 * If any field are not <b>properly</b> filled means it will show alerts like below image
