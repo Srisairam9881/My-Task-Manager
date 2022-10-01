@@ -43,20 +43,39 @@
 ## Vadlidation On sign up page:-
 
 * If any field are not filled means it will show alerts like below image
+* 
 ![Screenshot (3)](https://user-images.githubusercontent.com/80576654/193410514-57340a0b-ac1a-4eeb-9697-02901f7149a0.png)
 
 * If any field are not <b>properly<b> filled means it will show alerts like below image
+    
 ![Screenshot (4)](https://user-images.githubusercontent.com/80576654/193410518-0159cd19-b933-4eba-bb87-0f76b7c1a7c4.png)
 
 * If signup is fail it will show error like below image
+    
 ![Screenshot (5)](https://user-images.githubusercontent.com/80576654/193410524-46c0440e-8163-4d3f-9a82-4538c7b2754e.png)
 
 ## After Registration Completed:-
     
 * If Sign Up Completed Successfully it will redirect into login and it shows pop 
- ![Screenshot (6)](https://user-images.githubusercontent.com/80576654/193410628-f850ae76-c18f-4f6b-9e24-33a017457ece.png)
+    
+![Screenshot (6)](https://user-images.githubusercontent.com/80576654/193410628-f850ae76-c18f-4f6b-9e24-33a017457ece.png)
 ###
-## Val
+## Vadlidation On Login page:-
+* If login details are wrong means it will show error like below image
+    
+![Screenshot (7)](https://user-images.githubusercontent.com/80576654/193410738-489f00fa-0231-4d88-81ba-cb49744043e0.png)
+
+###
+## After Login Successfull:-
+* If login credentials is true it will redirect into user home page
+ 
+![Screenshot (8)](https://user-images.githubusercontent.com/80576654/193410815-62fe295f-0235-4601-a6e6-c4b52aef2fec.png)
+###
+## ALL Task List:-
+** user can Add List,Display All List,Update List and Delete List
+** In a List user can Add Task ,Update Task ,Display All Tasks,Update Tasks and Delete Tasks
+  
+
 
 
 
