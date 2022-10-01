@@ -84,14 +84,14 @@
   
   ![Screenshot (11)](https://user-images.githubusercontent.com/80576654/193411044-48504d78-bd6d-4241-9597-80f9081f8848.png)
 
-  <b>3.Update List</b>
+  <b>3.Update List.firt you have to select on folder that to which folder you want update?then click on right side settings button</b>
   
   ![Screenshot (28)](https://user-images.githubusercontent.com/80576654/193411174-0d751634-731d-427e-bf7b-6f2aff94b50a.png)
   
   <b>After List has updated it will shows pop you can see below image</b>  
   ![Screenshot (22)](https://user-images.githubusercontent.com/80576654/193411240-16f1a26a-3d63-43d2-a005-e3f6b0bc6ec1.png)
 
-  <b>4.Delete List</b>
+  <b>4.Delete List.firt you have to select on folder that to which folder you want update?then click on right side settings button</b>
   
 * In a List user can Add Task ,Update Task ,Display All Tasks,Update Tasks and Delete Tasks
   
