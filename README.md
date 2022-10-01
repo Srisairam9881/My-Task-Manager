@@ -135,11 +135,12 @@
 ###
 ## Completed Tasks:-
 * User can only see Completed tasks
+* If user want to change anything ,user can change
 ![Screenshot (26)](https://user-images.githubusercontent.com/80576654/193412029-007e93b8-c1d4-4cdf-89a7-b15e6edf656e.png)
 
 ## Incomplete Tasks:-
 * User can only see incomplete tasks
-* In this operation user can do, In All tasks list what have you  done opertion, user can do in opertion
+* User can do all operation ,In above what have you done in All Tasks List
 ![Screenshot (27)](https://user-images.githubusercontent.com/80576654/193412089-b66045b1-a3e3-437e-840e-b34749fd1687.png)
 
 # Logout
