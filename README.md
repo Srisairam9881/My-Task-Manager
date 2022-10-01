@@ -13,6 +13,8 @@
 
 ### In Backend
 * MongoDB
+* Express
+* NodeJs
 * Security
 * Json Web Token Authentication(JWT)
 
