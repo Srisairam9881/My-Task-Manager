@@ -1,6 +1,7 @@
 # Task Manager Project
 ###
-* It is Mean Stack Application:-
+* It is <b>MEAN</b> Stack Application:-
+*  <b>MEAN</b>
 *   M --> MongoDB,
     E --> Express,
     A --> Angular,
