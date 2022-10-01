@@ -33,7 +33,8 @@
 * Then He can acces this application
 * user login in application
 * user can access user-dashboard and rest of operations
-* 
+* After user login,user can add list,view list,update list,delete list
+* User can Add tasks,view tasks,update tasks,delete tasks
 ###
 
 ## Login:-
