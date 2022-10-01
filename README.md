@@ -95,8 +95,33 @@
   <b>4.Delete List.First select the folder you want to update to and then click on the Settings button on the right side</b>
   
 * In a List user can Add Task ,Update Task ,Display All Tasks,Update Tasks and Delete Tasks
+
+![Screenshot (12)](https://user-images.githubusercontent.com/80576654/193411711-540b0dca-754d-44d3-b079-f1166dba302c.png)
+
+![Screenshot (16)](https://user-images.githubusercontent.com/80576654/193411795-171785c4-ccc5-4d83-9b86-cd9ecab72659.png)
+
+* <b>1.Add Task.First select the folder you want to Add Task to and then click on the Add Task button on the right side</b>
+* 
+  ![Screenshot (13)](https://user-images.githubusercontent.com/80576654/193411732-c639e088-f66a-410b-b368-e3ffbdeb4730.png)
   
+  <b>After Task has added it will show pop like below image</b>
+  
+  ![Screenshot (14)](https://user-images.githubusercontent.com/80576654/193411770-e3808a4f-54ec-48a7-9faf-76626144b5ee.png)
 
+  <b>2.Display All Tasks.First select the folder you want to Display Task</b>
+  
+  ![Screenshot (15)](https://user-images.githubusercontent.com/80576654/193411782-d3aa03d0-8d19-45b2-a90c-89832c90bc04.png)
 
+  
+  <b>3.Update Task Task.First select the folder you want to Update Task to and then click on the Update Task button on the right side</b>
+  
+  ![Screenshot (17)](https://user-images.githubusercontent.com/80576654/193411804-36585090-1f22-4a07-a1a5-cc559e86a638.png)
+  
+  <b>Task has updated after it will shows pop like below image</b>
+  
+  ![Screenshot (18)](https://user-images.githubusercontent.com/80576654/193411898-097cf37b-c0b4-417b-9c66-3186d246e498.png)
 
+  
+  <b>4.Delete Task.First select the folder you want to Delete Task to and then click on the Delete Task button on the right side</b>
+  
 
