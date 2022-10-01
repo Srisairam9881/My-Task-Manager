@@ -46,7 +46,7 @@
 * 
 ![Screenshot (3)](https://user-images.githubusercontent.com/80576654/193410514-57340a0b-ac1a-4eeb-9697-02901f7149a0.png)
 
-* If any field are not <b>properly<b> filled means it will show alerts like below image
+* If any field are not <b>properly</b> filled means it will show alerts like below image
     
 ![Screenshot (4)](https://user-images.githubusercontent.com/80576654/193410518-0159cd19-b933-4eba-bb87-0f76b7c1a7c4.png)
 
@@ -72,7 +72,17 @@
 ![Screenshot (8)](https://user-images.githubusercontent.com/80576654/193410815-62fe295f-0235-4601-a6e6-c4b52aef2fec.png)
 ###
 ## ALL Task List:-
+![Screenshot (9)](https://user-images.githubusercontent.com/80576654/193410971-c7b117bc-43e4-4b77-a28f-ee50f3978268.png)
+
 * user can Add List,Display All List,Update List and Delete List
+  <b>1.Add List</b>
+  ![Screenshot (10)](https://user-images.githubusercontent.com/80576654/193411029-7177e323-385e-4dea-bc4f-555b6138225a.png)
+
+  <b>2.Display List</b>
+  ![Screenshot (11)](https://user-images.githubusercontent.com/80576654/193411044-48504d78-bd6d-4241-9597-80f9081f8848.png)
+
+  <b>3.Update List</b>
+  <b>4.Delete List</b>
 * In a List user can Add Task ,Update Task ,Display All Tasks,Update Tasks and Delete Tasks
   
 
