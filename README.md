@@ -72,8 +72,8 @@
 ![Screenshot (8)](https://user-images.githubusercontent.com/80576654/193410815-62fe295f-0235-4601-a6e6-c4b52aef2fec.png)
 ###
 ## ALL Task List:-
-** user can Add List,Display All List,Update List and Delete List
-** In a List user can Add Task ,Update Task ,Display All Tasks,Update Tasks and Delete Tasks
+* user can Add List,Display All List,Update List and Delete List
+* In a List user can Add Task ,Update Task ,Display All Tasks,Update Tasks and Delete Tasks
   
 
 
