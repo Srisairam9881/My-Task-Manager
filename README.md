@@ -32,7 +32,7 @@
 * After user signup completed 
 * Then He can acces this application
 * user login in application
-* user can access user-dashboard
+* user can access user-dashboard and rest of operations
 * 
 ###
 
