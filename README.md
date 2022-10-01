@@ -45,7 +45,7 @@
 ![Screenshot (2)](https://user-images.githubusercontent.com/80576654/193410484-46b316bb-bacc-4292-87f9-f525eab8176c.png)
 ###
 
-## Vadlidation On sign up page:-
+## Vaildation On sign up page:-
 
 * If any field are not filled means it will show alerts like below image
  
@@ -65,7 +65,7 @@
     
 ![Screenshot (6)](https://user-images.githubusercontent.com/80576654/193410628-f850ae76-c18f-4f6b-9e24-33a017457ece.png)
 ###
-## Vadlidation On Login page:-
+## Vaildation On Login page:-
 * If login details are wrong means it will show error like below image
     
 ![Screenshot (7)](https://user-images.githubusercontent.com/80576654/193410738-489f00fa-0231-4d88-81ba-cb49744043e0.png)
